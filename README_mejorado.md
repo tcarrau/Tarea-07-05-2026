@@ -26,3 +26,9 @@ Dentro de este proyecto hay un monton de funetes(libros, tutoriales interactivos
    - Luego free-courses-en.md
    - Buscar c++ y entrar a su link determinado
    - Elegir fuente correcta
+
+
+### "Mejoras"
+
+No encontre repositorios en los que crea que podia mejorar algo por lo tanto me termine decantando por este ya que en la mayoria de los otros me costaba hasta entender de que se trataba
+el proyecto en si. Asi que en resumen yo no lo llamaria mejoras sino cambios
