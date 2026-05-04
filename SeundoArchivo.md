@@ -32,6 +32,9 @@ Es de tipo Creative commons no MIT o GPL
 
 **Restricciones**
 - No podes imponer restricciones adicionales a otros
+- Dar credito al autor original
+- Incluir licencia
+- Indicar si hiciste cambios
 - No podes decir que el autor original te respalda
 - No incluye derechos de patentes ni marcas
 
