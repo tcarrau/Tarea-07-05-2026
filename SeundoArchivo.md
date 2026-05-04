@@ -17,3 +17,24 @@ Es fundamental en el código abierto para innovación, personalización o para c
 **Diferencias entre fork y clone**
 Un fork crea una copia personal de un repositorio en la nube (ej. GitHub) bajo tu cuenta, ideal para proponer cambios a proyectos ajenos mediante pull requests.
 Un clone descarga un repositorio a tu computadora local para trabajar en él, sin crear una copia nueva en el servidor
+
+
+## Investigacion licencia 
+
+_Nombre_: Creative Commons Attribution 4.0 International
+Es de tipo Creative commons no MIT o GPL
+
+**Que puedo hacer?**
+- Usar el material para cualquier proposito
+- Copiarlo y distribuirlo
+- Modificarlo o adaptarlo
+- Usarlo en cialquier formato o medio
+
+**Restricciones**
+- No podes imponer restricciones adicionales a otros
+- No podes decir que el autor original te respalda
+- No incluye derechos de patentes ni marcas
+
+**Uso en entrega facultad**
+
+Podria usarla dependiendo del contexto, para informes, pdf, o documentacion si, para codigo conviene mas MIT o apache 2.0
