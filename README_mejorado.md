@@ -15,5 +15,14 @@ Dentro de este proyecto hay un monton de funetes(libros, tutoriales interactivos
 
 #### Ejemplos
 
-1. **Aprender python hablando español**
-- 
+1. **Aprender python hablando español usando libros**
+   - Acceder a carpeta books
+   - Luego a free-programming-books-es.md
+   - Buscar python y entrar a su link determinado
+   - Elegir la fuente que te parezca correcta
+  
+2. **Aprender c++ hablando ingles a traves de cursos**
+   - Entrar carpeta courses
+   - Luego free-courses-en.md
+   - Buscar c++ y entrar a su link determinado
+   - Elegir fuente correcta
