@@ -41,3 +41,12 @@ Es de tipo Creative commons no MIT o GPL
 **Uso en entrega facultad**
 
 Podria usarla dependiendo del contexto, para informes, pdf, o documentacion si, para codigo conviene mas MIT o apache 2.0
+
+
+## Reflexion
+
+GitHub creo que ayuda a dar visibilidad y acceso a desarollos open source, haciendo facil que otra gente participe y vea proyectos que hace cualquiera desde su casa,
+ademas de eso estas practicas se estandarizan con el fin de que si son muchos quienes estan dentro de un proyecto no se vuelva caotico y que mantenga siempre un orden
+ya que si todos hacen cosas a la vez uno arriba de otro llevaria a muchos bugs, y comportamientos inadecuados ademas de problemas de seguridad.
+La documentacion es parte clave de un proyecto ya que ayuda a que gente que entra al repositorio en este caso sin tener que analizar todo el codigo pueda
+entender que hace cada cosa.
